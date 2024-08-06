@@ -36,6 +36,7 @@ function App() {
    },[length,numberAllowed,charAllowed,passwordGenrator])
   return (
     <>
+     
      <div className="">
       <div className='w-full  max-w-md mx-auto  shadow-md rounded-lg px-4 py-3 
       my-8 text-red-500 bg-gray-800'>
